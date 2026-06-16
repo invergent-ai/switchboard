@@ -90,10 +90,6 @@ The numbers from these scripts are the ones in the [article](ARTICLE.md#the-benc
 
 The LLM is only ever used to turn a messy input into the key fields, and to write the final reply — never to make the decision.
 
-## The honest catch
-
-The tasks where this is *perfect* are perfect because they're explicit rulebooks — but if a task is an explicit rulebook, you usually already have the rulebook. And the tasks where you'd want to *learn* the rules from data are messy precisely because they're judgment calls, where there often isn't a clean rule to find. This repo lets you check it yourself.
-
 ## License
 
 [MIT](LICENSE).
