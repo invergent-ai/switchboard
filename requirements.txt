@@ -1,0 +1,8 @@
+# Core (no-API benchmarks: run_realdata.py, run_suite.py)
+numpy>=1.24
+scikit-learn>=1.3
+pandas>=2.0
+
+# Live-LLM benchmarks (run_marketplace.py, run_newentity.py, run_messy.py)
+openai>=1.40
+json-repair>=0.25
