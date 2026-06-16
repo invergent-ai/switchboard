@@ -2,7 +2,7 @@
 
 **Don't let your LLM make the decision. Pull out the rule, and let the model just read and write around it.**
 
-This is the code and the benchmarks behind the article [*Don't Let Your LLM Make the Decision*](ARTICLE.md).
+This is the code and the benchmarks behind the article [*Don't Let Your LLM Make the Decision*](https://x.com/flaviusburca/status/2066744650736529558?s=20).
 
 The idea in three sentences: a lot of the "decisions" we hand to LLMs are really rules — the answer is fully determined by a few fields in the input. So instead of asking the model to apply the rule (where it guesses, and is sometimes confidently wrong), Switchboard learns the rule into a plain lookup table and lets the *table* decide. The model is left with the two jobs it's good at: reading a messy input into clean fields, and writing the reply once the decision is already made.
 
