@@ -92,7 +92,7 @@ The LLM is only ever used to turn a messy input into the key fields, and to writ
 
 ## The honest catch
 
-The tasks where this is *perfect* are perfect because they're explicit rulebooks — but if a task is an explicit rulebook, you usually already have the rulebook. And the tasks where you'd want to *learn* the rules from data are messy precisely because they're judgment calls, where there often isn't a clean rule to find. The [article](ARTICLE.md#the-tension-nobody-tells-you-about) walks through that tension honestly. This repo lets you check it yourself.
+The tasks where this is *perfect* are perfect because they're explicit rulebooks — but if a task is an explicit rulebook, you usually already have the rulebook. And the tasks where you'd want to *learn* the rules from data are messy precisely because they're judgment calls, where there often isn't a clean rule to find. This repo lets you check it yourself.
 
 ## License
 
